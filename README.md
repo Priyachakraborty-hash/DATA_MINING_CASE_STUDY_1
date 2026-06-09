@@ -1,4 +1,4 @@
-🧠 Data Mining Case Study 1 — Sentiment Analysis on Movie Reviews
+ Data Mining Case Study 1 — Sentiment Analysis on Movie Reviews
 📚 Overview
 
 This project was completed as part of the Data Mining course at Binghamton University (Fall 2024).
