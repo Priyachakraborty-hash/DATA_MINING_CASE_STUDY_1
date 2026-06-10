@@ -1,5 +1,5 @@
  Data Mining Case Study 1 : Sentiment Analysis on Movie Reviews
-📚 Overview
+ Overview
 
 This project was completed as part of the Data Mining course at Binghamton University (Fall 2024).
 The goal was to build, compare, and evaluate multiple machine learning and deep learning models for binary sentiment classification of movie reviews (positive vs negative).
